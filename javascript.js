@@ -50,9 +50,9 @@ var viewer = pannellum.viewer('panorama', {
         "vaov":180,
         "minPitch":-25,
         "maxPitch": 25,
-        "yaw": -10,
+        "yaw": -39,
         "compass":true,
-        "northOffset":10
+        "northOffset":39
         
       }, 
     //   "image-5":{
@@ -137,7 +137,7 @@ function updateDegreeScale() {
       "image-1": -46,
       "image-2": -46,
       "image-3": -46,
-      "image-4": -10,
+      "image-4": -39,
     //   "image-5": 16
     };
   
